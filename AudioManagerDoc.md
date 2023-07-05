@@ -1,3 +1,12 @@
+# Audio Manager
+
+---
+
+<aside>
+💡 An audio manager for unity, which gives you some important options for modify your audio and easily integrate it in your project.
+
+</aside>
+
 # Overview: <b>Audio Tool</b>
 
 That tool is a solution for managing all the audio of the project without programming at any time.
