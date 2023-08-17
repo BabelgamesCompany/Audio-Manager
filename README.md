@@ -17,5 +17,8 @@ You can download the tool at the [Asset Store](https://assetstore.unity.com/publ
 ## Version 1.2.1b:
 - Code fixes for the singleton part.
 
-## Version 1.2.2a (Current):
+## Version 1.2.2a:
 - New singleton version & audio manager fixes.
+
+## Version 1.2.3a (Current):
+- Audio Manager detection in Editor mode fix, and initialization fix.
